@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Titillium Maps';
+    src: url('eot/TitilliumMaps-150wt.eot');
+    src: url('eot/TitilliumMaps-150wt.eot?#iefix') format('embedded-opentype'),
+         url('woff/TitilliumMaps-150wt.woff') format('woff'),
+         url('ttf/TitilliumMaps-150wt.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Maps';
+    src: url('eot/TitilliumMaps-350wt.eot');
+    src: url('eot/TitilliumMaps-350wt.eot?#iefix') format('embedded-opentype'),
+         url('woff/TitilliumMaps-350wt.woff') format('woff'),
+         url('ttf/TitilliumMaps-350wt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Maps';
+    src: url('eot/TitilliumMaps-850wt.eot');
+    src: url('eot/TitilliumMaps-850wt.eot?#iefix') format('embedded-opentype'),
+         url('woff/TitilliumMaps-850wt.woff') format('woff'),
+         url('ttf/TitilliumMaps-850wt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Maps';
+    src: url('eot/TitilliumMaps-1000wt.eot');
+    src: url('eot/TitilliumMaps-1000wt.eot?#iefix') format('embedded-opentype'),
+         url('woff/TitilliumMaps-1000wt.woff') format('woff'),
+         url('ttf/TitilliumMaps-1000wt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

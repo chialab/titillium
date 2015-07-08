@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Titillium Title';
+    src: url('eot/TitilliumTitle.eot');
+    src: url('eot/TitilliumTitle.eot?#iefix') format('embedded-opentype'),
+         url('woff/TitilliumTitle.woff') format('woff'),
+         url('ttf/TitilliumTitle.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
