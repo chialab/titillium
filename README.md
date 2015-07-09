@@ -5,6 +5,8 @@ Custom version of Titillium.
 
 Main project homepage: [http://www.campivisivi.net/titillium/](http://www.campivisivi.net/titillium/)
 
+Specimen: [http://chialab.github.io/titillium/](http://chialab.github.io/titillium/)
+
 ## Use in your App
 
 Using bower:
