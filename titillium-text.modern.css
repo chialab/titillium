@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumText-150wt.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumText-350wt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumText-650wt.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumText-850wt.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumText-1000wt.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumTextItalic-150wt1000sl.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumTextItalic-350wt1000sl.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumTextItalic-650wt1000sl.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumTextItalic-850wt1000sl.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Titillium Text';
+    src: url('woff/TitilliumTextItalic-1000wt1000sl.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Titillium Upright';
+    src: url('woff/TitilliumTextItalic-150wt1000sl.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
