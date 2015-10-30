@@ -35,16 +35,3 @@ Titillium Text Upright
 
 ```html
 <link rel="stylesheet" type="text/css" href="titillium-text-up.css">
-```
-
-Titillium Maps
-
-```html
-<link rel="stylesheet" type="text/css" href="titillium-maps.css">
-```
-
-Titillium Title
-
-```html
-<link rel="stylesheet" type="text/css" href="titillium-title.css">
-```
