@@ -1,11 +1,14 @@
 Titillium
 =========
 
-Custom version of Titillium. 
+Custom version of Titillium for interactive eBook (http://www.chialab.it/interactive-ebook-promo/). 
 
 Main project homepage: [http://www.campivisivi.net/titillium/](http://www.campivisivi.net/titillium/)
 
 Specimen: [http://chialab.github.io/titillium/](http://chialab.github.io/titillium/)
+
+#### Warning
+for latin extendend use: https://fonts.google.com/specimen/Titillium+Web
 
 ## Use in your App
 
